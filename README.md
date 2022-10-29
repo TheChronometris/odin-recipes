@@ -1,5 +1,5 @@
 This is a test site for The Odin Project. This will be used as an experiment to practice basic HTML
-elements, such as boilerplate set-up, proper use of headers, paragraphs, unordered lists, unordered lists,
+elements, such as boilerplate set-up, proper use of headers, paragraphs, ordered lists, unordered lists,
 image linking, and relative address linking. 
 
 The idea of this site is to be a recipe website that links to multiple recipe pages within the repository,
